@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 
 ![](http://antzuhl.cn:4000/get/@lixiang007666)
+![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lixiang007666&show_icons=true&count_private=true&hide=prs&theme=default_repocard)

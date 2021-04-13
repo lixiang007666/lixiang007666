@@ -2,7 +2,7 @@
 
 <!--
 **lixiang007666/lixiang007666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

@@ -2,9 +2,9 @@
 
 <!--
 **lixiang007666/lixiang007666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://visitor-badge.glitch.me/badge?page_id=lixiang007666)
+
 Here are some ideas to get you started:
-![](http://antzuhl.cn:4000/get/@lixiang007666)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://visitor-badge.glitch.me/badge?page_id=lixiang007666)
+![](http://antzuhl.cn:4000/get/@lixiang007666)

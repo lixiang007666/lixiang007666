@@ -60,6 +60,5 @@
 ![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-Ios-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/-Kali?style=flat-square&logo=Android&logoColor=fff)
+![](https://img.shields.io/badge/-?style=flat-square&logo=Android&logoColor=fff)
 

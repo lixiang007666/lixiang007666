@@ -14,7 +14,7 @@
 
 ![](http://antzuhl.cn:4000/get/@lixiang007666)
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
+
 
 **Languages and Tools:**  
 

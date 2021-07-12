@@ -16,6 +16,8 @@
 ![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lixiang007666&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 <img align="right" alt="GIF" width="400px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/真香.gif" />
+
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>

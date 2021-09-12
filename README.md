@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning Algorithm and Image processing.
-- 💬 Ask me about DeepLearning, Python, Web Security, Development, Linux etc.
+- 💬 Ask me about Deep Learning, Python, Web Security, Development, Linux etc.
 - 📫 How to reach me: lixiang007top@gmail.com / lixiang007top@163.com.
 
 

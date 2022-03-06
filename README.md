@@ -16,6 +16,13 @@
 - 🌱 Currently studying software engineering, specializing in computer vision, deep learning and medical image processing, and occasionally doing transfer learning and full stack development.
 - 📫 How to reach me: lixiang007top@gmail.com / lixiang007top@163.com.
 
+![](https://img.shields.io/badge/-Keras-orange?style=flat-square&logo=Kotlin&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-?style=flat-square&logo=Android&logoColor=fff)
+
 
 **Languages and Tools:**  
 
@@ -61,13 +68,5 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
 
 
-
-
-![](https://img.shields.io/badge/-Keras-orange?style=flat-square&logo=Kotlin&logoColor=fff)
-![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
-![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-?style=flat-square&logo=Android&logoColor=fff)
 ![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 

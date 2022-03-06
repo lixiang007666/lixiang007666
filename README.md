@@ -3,9 +3,6 @@
 <img  src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true">
 
 
-- 🌱 Currently studying software engineering, specializing in computer vision, deep learning and medical image processing, and occasionally doing transfer learning and full stack development.
-- 📫 How to reach me: lixiang007top@gmail.com / lixiang007top@163.com.
-
 <div align="center">
   <a href="https://github.com/lixiang007666">
     <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lixiang007666&theme=github">
@@ -13,10 +10,11 @@
 </div>
 
 
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hanyuancheung&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</html>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=lixiang007666&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-
-<img align="right" alt="GIF" width="400px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/真香.gif" />
+- 🌱 Currently studying software engineering, specializing in computer vision, deep learning and medical image processing, and occasionally doing transfer learning and full stack development.
+- 📫 How to reach me: lixiang007top@gmail.com / lixiang007top@163.com.
 
 
 **Languages and Tools:**  

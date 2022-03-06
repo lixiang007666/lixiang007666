@@ -1,10 +1,11 @@
-### Hi there 👋   ![](https://visitor-badge.glitch.me/badge?page_id=lixiang007666)
+### Hi there 👋   
 
 <img  src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true">
 
 
 - 🌱 Currently studying software engineering, specializing in computer vision, deep learning and medical image processing, and occasionally doing transfer learning and full stack development.
 - 📫 How to reach me: lixiang007top@gmail.com / lixiang007top@163.com.
+- ![](https://visitor-badge.glitch.me/badge?page_id=lixiang007666)
 
 <div align="center">
   <a href="https://github.com/lixiang007666">

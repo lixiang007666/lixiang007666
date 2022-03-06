@@ -31,6 +31,13 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vmware.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hexo.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/wordpress.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/open-telemetry/opentelemetry-rust/main/assets/logo-text.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/49725059?s=200&v=4"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/3380462?s=200&v=4"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/45281227?s=200&v=4"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 **Technology being learned**
 

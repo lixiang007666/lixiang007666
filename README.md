@@ -3,10 +3,15 @@
 <img  src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true">
 
 
-- 🌱 I’m currently learning Algorithm and Image processing.
-- 💬 Ask me about Deep Learning, Python, Web Security, Development, Linux etc.
+- 🌱 Currently studying software engineering, specializing in computer vision, deep learning and medical image processing, and occasionally doing transfer learning and full stack development.
+- 💬 Ask me about Python, Web Security, Development, Linux etc.
 - 📫 How to reach me: lixiang007top@gmail.com / lixiang007top@163.com.
 
+<div align="center">
+  <a href="https://github.com/lixiang007666">
+    <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lixiang007666&theme=github">
+  </a>
+</div>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lixiang007666)

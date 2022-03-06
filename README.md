@@ -14,8 +14,7 @@
 
 
 
-![](http://antzuhl.cn:4000/get/@lixiang007666)
-![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lixiang007666&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=lixiang007666&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 <img align="right" alt="GIF" width="400px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/真香.gif" />
 

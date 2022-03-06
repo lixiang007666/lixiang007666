@@ -1,4 +1,5 @@
-### Hi there,    ![](https://visitor-badge.glitch.me/badge?page_id=lixiang007666)
+### Hi there,   
+![](https://visitor-badge.glitch.me/badge?page_id=lixiang007666)
 
 <img  src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true">
 
@@ -10,7 +11,7 @@
 </div>
 
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hanyuancheung&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=lixiang007666&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </html>
 
 - 🌱 Currently studying software engineering, specializing in computer vision, deep learning and medical image processing, and occasionally doing transfer learning and full stack development.

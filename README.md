@@ -1,6 +1,4 @@
-### Hi there,   
-
- ![](https://visitor-badge.glitch.me/badge?page_id=lixiang007666)
+### Hi there,    ![](https://visitor-badge.glitch.me/badge?page_id=lixiang007666)
 
 <img  src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true">
 

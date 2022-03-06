@@ -4,7 +4,6 @@
 
 
 - 🌱 Currently studying software engineering, specializing in computer vision, deep learning and medical image processing, and occasionally doing transfer learning and full stack development.
-- 💬 Ask me about Python, Web Security, Development, Linux etc.
 - 📫 How to reach me: lixiang007top@gmail.com / lixiang007top@163.com.
 
 <div align="center">

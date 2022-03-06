@@ -1,7 +1,5 @@
 ### Hi there,    ![](https://visitor-badge.glitch.me/badge?page_id=lixiang007666)
 
-<img  src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true">
-
 
 <div align="center">
   <a href="https://github.com/lixiang007666">

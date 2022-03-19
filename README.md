@@ -62,5 +62,6 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
 
+[![Code](https://github-readme-stats.vercel.app/api/top-langs/?username=MARD1NO&hide=html&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 

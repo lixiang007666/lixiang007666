@@ -62,7 +62,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixiang007666" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixiang007666&&hide=html&theme=vue-dark" />
 </html>
 
 

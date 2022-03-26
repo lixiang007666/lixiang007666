@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/-?style=flat-square&logo=Android&logoColor=fff)
 
 
-<img width="50%" height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixiang007666&&hide=html" />
+<img width="50%" height="240px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixiang007666&&hide=html" />
 </html>
 
 **Languages and Tools:**  

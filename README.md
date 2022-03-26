@@ -1,13 +1,5 @@
 ### Hi there,    ![](https://visitor-badge.glitch.me/badge?page_id=lixiang007666)
 
-
-<div align="center">
-  <a href="https://github.com/lixiang007666">
-    <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lixiang007666&theme=github">
-  </a>
-</div>
-
-
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=lixiang007666&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </html>
 

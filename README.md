@@ -3,8 +3,8 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=lixiang007666&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </html>
 
-- 🌱 Specializing in Computer Vision, Medical Image Processing. He also occasionally engages in Transfer Learning and Full-stack Dev.
-- 📫 How to reach me: lixiang007top@gmail.com / superbli@feishu.uestc.cn.
+- 🌱 Specializing in CV, MIP. He also occasionally engages in TL and Java Dev.
+- 📫 How to reach me: lixiang007top@gmail.com.
 
 ![](https://img.shields.io/badge/-Keras-orange?style=flat-square&logo=Kotlin&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
